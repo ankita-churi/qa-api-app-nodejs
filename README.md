@@ -14,7 +14,7 @@ This project provides a modular API built with JavaScript (Node.js/Express), fea
 
 ### 📦 Installation
 ```bash
-git clone https://github.com/your-repo/api-js-app.git
-cd api-js-app
+git clone https://github.com/ankita-churi/qa-api-app-nodejs.git
+cd qa-api-app-nodejs
 npm install
-npm run dev
+npm start
